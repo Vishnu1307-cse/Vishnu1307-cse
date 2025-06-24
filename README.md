@@ -11,12 +11,12 @@ Feel free to go through my repositories and point out any mistakes in them. Im a
 <!-- ───────────── CONTACT BADGES ───────────── -->
 <p align="center">
   <!-- LinkedIn – modern / dark blue -->
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/vishnu-s-55887b295/" target="_blank">
     <img alt="LinkedIn Badge"
          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <!-- Email – Gmail style; change address as needed -->
-  <a href="mailto:your@email.com">
+  <a href="svvishnu33@gmail.com">
     <img alt="Email Badge"
          src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
