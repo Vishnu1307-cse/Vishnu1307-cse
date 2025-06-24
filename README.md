@@ -8,7 +8,7 @@ to web development, I lean in the expertise of  💻 ***MERN stack*** and ***Rub
 Feel free to go through my repositories and point out any mistakes in them. Im always ready to change and learn.
 
 
-<!-- ───────────── CONTACT BADGES ───────────── -->
+##For contacting me
 <p align="center">
   <!-- LinkedIn – modern / dark blue -->
   <a href="https://www.linkedin.com/in/vishnu-s-55887b295/" target="_blank">
@@ -18,7 +18,7 @@ Feel free to go through my repositories and point out any mistakes in them. Im a
   <!-- Email – Gmail style; change address as needed -->
   <a href="svvishnu33@gmail.com">
     <img alt="Email Badge"
-         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><p>svvishnu33@gmail.com</p>
   </a>
 </p>
 
