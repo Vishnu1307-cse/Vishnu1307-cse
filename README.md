@@ -9,7 +9,7 @@ Feel free to go through my repositories and point out any mistakes in them. Im a
 
 
 ##For contacting me
-<p align="left">
+<p align="center">
   <!-- LinkedIn – modern / dark blue -->
   <a href="https://www.linkedin.com/in/vishnu-s-55887b295/" target="_blank">
     <img alt="LinkedIn Badge"
@@ -20,8 +20,9 @@ Feel free to go through my repositories and point out any mistakes in them. Im a
     <img alt="Email Badge"
          src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+<br/>
+  svvishnu33@gmail.com
 </p>
-svvishnu33@gmail.com
 
 <!-- ───────────── TECH STACK FLEX ───────────── -->
 <p align="center">
