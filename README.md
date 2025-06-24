@@ -1,14 +1,21 @@
-## Hi there welcome to my little den!!👋
+## 👋 Hi there, welcome to my little den!!
 
-  # My name is *Vishnu S*. 🎨 I'm a splash artist turned code wizard.
-Im a B.Tech CSE student currently studying at Amrita Vishwa Vidhyapeetam.
-Im an avid learner in the fields of *Web development* and *Game development*. When it comes
-to web development, I lean in the expertise of  💻 ***MERN stack*** and ***Ruby on rails*** along with building 
-***RESTful*** api.
+# I'm *Vishnu S* 🎨 — a splash artist turned code wizard.
 
-Feel free to go through my repositories and point out any mistakes in them. Im always ready to change and learn.
+I'm currently a B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, and I spend most of my hours immersed in the worlds of:
 
-##My Skill set 💡
+- 🌐 **Web Development**  
+- 🎮 **Game Development**
+
+My tech stack besties?  
+💻 ***MERN Stack*** and ***Ruby on Rails***, with a passion for crafting **RESTful APIs** that actually behave (unlike my code at 3AM 😵‍💫).
+
+Feel free to peek through my repositories and call me out on any bugs — I’m always eager to learn, grow, and level up!
+
+---
+
+## 💡 My Skill Set
+
 <!-- ───────────── TECH STACK FLEX ───────────── -->
 <p align="center">
   <!-- Languages -->
@@ -61,36 +68,22 @@ Feel free to go through my repositories and point out any mistakes in them. Im a
        src="https://img.shields.io/badge/Data&nbsp;Structures&nbsp;&&nbsp;Algos-323330?style=for-the-badge&logo=codewars&logoColor=red"/>
 </p>
 
-##For contacting me
+---
+
+## 📬 How to Reach Me
+
 <p align="center">
-  <!-- LinkedIn – modern / dark blue -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/vishnu-s-55887b295/" target="_blank">
     <img alt="LinkedIn Badge"
          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Email – Gmail style; change address as needed -->
-  <a href="svvishnu33@gmail.com">
+
+  <!-- Email -->
+  <a href="mailto:svvishnu33@gmail.com">
     <img alt="Email Badge"
          src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-<br/>
+  <br/><br/>
   <b>svvishnu33@gmail.com</b>
 </p>
-
-<!-- ───────────── TECH STACK FLEX ───────────── -->
-<br/>
-
-<!--
-**Vishnu1307-cse/Vishnu1307-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
