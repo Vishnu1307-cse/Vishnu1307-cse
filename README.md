@@ -7,25 +7,6 @@ to web development, I lean in the expertise of  💻 ***MERN stack*** and ***Rub
 
 Feel free to go through my repositories and point out any mistakes in them. Im always ready to change and learn.
 
-
-##For contacting me
-<p align="center">
-  <!-- LinkedIn – modern / dark blue -->
-  <a href="https://www.linkedin.com/in/vishnu-s-55887b295/" target="_blank">
-    <img alt="LinkedIn Badge"
-         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <!-- Email – Gmail style; change address as needed -->
-  <a href="svvishnu33@gmail.com">
-    <img alt="Email Badge"
-         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-<br/>
-  <b>svvishnu33@gmail.com</b>
-</p>
-
-<!-- ───────────── TECH STACK FLEX ───────────── -->
-<br/>
 ##My Skill set 💡
 <p align="center">
   <!-- Languages -->
@@ -73,7 +54,24 @@ Feel free to go through my repositories and point out any mistakes in them. Im a
        src="https://img.shields.io/badge/Data&nbsp;Structures&nbsp;&&nbsp;Algos-323330?style=for-the-badge&logo=codewars&logoColor=red"/>
 </p>
 
+##For contacting me
+<p align="center">
+  <!-- LinkedIn – modern / dark blue -->
+  <a href="https://www.linkedin.com/in/vishnu-s-55887b295/" target="_blank">
+    <img alt="LinkedIn Badge"
+         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- Email – Gmail style; change address as needed -->
+  <a href="svvishnu33@gmail.com">
+    <img alt="Email Badge"
+         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+<br/>
+  <b>svvishnu33@gmail.com</b>
+</p>
 
+<!-- ───────────── TECH STACK FLEX ───────────── -->
+<br/>
 
 <!--
 **Vishnu1307-cse/Vishnu1307-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
