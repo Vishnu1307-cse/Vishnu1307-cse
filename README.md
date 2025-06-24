@@ -21,10 +21,12 @@ Feel free to go through my repositories and point out any mistakes in them. Im a
          src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 <br/>
-  svvishnu33@gmail.com
+  <b>svvishnu33@gmail.com</b>
 </p>
 
 <!-- ───────────── TECH STACK FLEX ───────────── -->
+<br/>
+##My Skill set 💡
 <p align="center">
   <!-- Languages -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
