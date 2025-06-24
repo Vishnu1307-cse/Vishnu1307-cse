@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there welcome to my little den!!👋
 
+  My name is Vishnu S. Im a B.Tech CSE student studying at Amrita Vishwa Vidhyapeetam.
+Im an avid learner in the fields of Web development and Game development. When it comes
+to web development, I lean in the expertise of MERN stack and Ruby on rails.
 <!--
 **Vishnu1307-cse/Vishnu1307-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
