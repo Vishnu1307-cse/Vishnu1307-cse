@@ -18,9 +18,10 @@ Feel free to go through my repositories and point out any mistakes in them. Im a
   <!-- Email – Gmail style; change address as needed -->
   <a href="svvishnu33@gmail.com">
     <img alt="Email Badge"
-         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><p>svvishnu33@gmail.com</p>
+         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+***svvishnu33@gmail.com***
 
 <!-- ───────────── TECH STACK FLEX ───────────── -->
 <p align="center">
