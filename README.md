@@ -12,6 +12,7 @@ My tech stack besties?
 
 Feel free to peek through my repositories and call me out on any bugs — I’m always eager to learn, grow, and level up!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut-vertical)](https://github.com/Vishnu1307-cse/github-readme-stats)
 ---
 
 ## 💡 My Skill Set
