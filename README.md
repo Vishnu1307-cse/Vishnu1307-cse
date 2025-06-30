@@ -88,3 +88,4 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
   <br/><br/>
   <b>svvishnu33@gmail.com</b>
 </p>
+![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu1307-cse&show_icons=true&theme=tokyonight)
