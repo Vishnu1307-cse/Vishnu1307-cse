@@ -29,6 +29,7 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="Node.js"
        src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3"   src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Bash"   src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -46,6 +47,9 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
   <img alt="Rails"       src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   <img alt="MERN"
        src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="RBAC" src="https://img.shields.io/badge/RBAC-006400?style=for-the-badge&logo=security&logoColor=white"/>
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -67,6 +71,11 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
        src="https://img.shields.io/badge/Filmora-0A8FEC?style=for-the-badge&logo=filmora&logoColor=white"/>
   <img alt="DSA"
        src="https://img.shields.io/badge/Data&nbsp;Structures&nbsp;&&nbsp;Algos-323330?style=for-the-badge&logo=codewars&logoColor=red"/>
+</p>
+<p align = "center">
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img alt="Quixel Bridge" src="https://img.shields.io/badge/Quixel_Bridge-2C2C2C?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
