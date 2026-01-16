@@ -14,8 +14,22 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api?username=Vishnu1307-cse&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Vishnu1307-cse&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu1307-cse&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
   />
 </p>
 
@@ -104,3 +118,9 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
   <br/><br/>
   <b>svvishnu33@gmail.com</b>
 </p>
+
+---
+
+## 🌐 Portfolio
+
+🔗 **https://portfolio-virid-delta-88.vercel.app**
