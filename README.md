@@ -13,24 +13,17 @@ My tech stack?
 Feel free to peek through my repositories and call me out on any bugs — I’m always eager to learn, grow, and level up!
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Vishnu1307-cse&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Vishnu1307-cse&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Vishnu1307-cse&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
-  />
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
+  <br/>
+  — Martin Fowler
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu1307-cse&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
-  />
+  ⚡ Building scalable backends • 🎮 Exploring game engines • 🎨 Mixing art with code
 </p>
 
 ---
