@@ -12,7 +12,13 @@ My tech stack?
 
 Feel free to peek through my repositories and call me out on any bugs — I’m always eager to learn, grow, and level up!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut-vertical)](https://github.com/Vishnu1307-cse/github-readme-stats&langs_count=8)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
 ---
 
 ## 💡 My Skill Set
@@ -72,7 +78,8 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
   <img alt="DSA"
        src="https://img.shields.io/badge/Data&nbsp;Structures&nbsp;&&nbsp;Algos-323330?style=for-the-badge&logo=codewars&logoColor=red"/>
 </p>
-<p align = "center">
+
+<p align="center">
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img alt="Quixel Bridge" src="https://img.shields.io/badge/Quixel_Bridge-2C2C2C?style=for-the-badge&logoColor=white"/>
