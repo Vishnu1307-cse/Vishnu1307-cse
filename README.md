@@ -82,6 +82,7 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
   <!-- Tools / Libraries -->
   <img alt="Git"      src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub"   src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img alt="PuTTY"    src="https://img.shields.io/badge/PuTTY-00599C?style=for-the-badge&logo=putty&logoColor=white"/>
   <img alt="NumPy"    src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Pandas"   src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
