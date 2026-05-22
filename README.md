@@ -8,7 +8,7 @@ I'm currently a B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, and I spen
 - 🎮 **Game Development**
 
 My tech stack?  
-💻 ***MERN Stack*** , ***PERN*** and ***Ruby on Rails***, with a passion for crafting **RESTful APIs** that actually behave (unlike my code at 3AM 😵‍💫).
+💻 ***MERN Stack*** , ***PERN***, ***Laravel*** and ***Ruby on Rails***, with a passion for crafting **RESTful APIs** that actually behave (unlike my code at 3AM 😵‍💫).
 
 Feel free to peek through my repositories and call me out on any bugs — I’m always eager to learn, grow, and level up!
 
