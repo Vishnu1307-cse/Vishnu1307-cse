@@ -124,4 +124,4 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 
 ## 🌐 Portfolio
 
-🔗 **https://portfolio-virid-delta-88.vercel.app**
+🔗 **https://vishnu1307-cse.github.io/portfolio/**
