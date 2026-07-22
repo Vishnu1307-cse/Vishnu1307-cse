@@ -68,6 +68,9 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -76,6 +79,7 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
   <img alt="MySQL"    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="SQLite3"  src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -97,6 +101,7 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 <p align="center">
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
   <img alt="Quixel Bridge" src="https://img.shields.io/badge/Quixel_Bridge-2C2C2C?style=for-the-badge&logoColor=white"/>
 </p>
 
