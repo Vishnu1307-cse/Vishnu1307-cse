@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Welcome%20to%20my%20little%20den!!&fontSize=42&fontAlignY=35&animation=twinkle&fontColor=ffffff" alt="Animated Welcome Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=39FF14&center=true&vcenter=true&width=600&height=100&lines=%3E_+Welcome+to+my+little+den!!;%3E_+Initializing+workspace...;%3E_+System+ready." alt="Animated Typing Header" />
 </p>
 
 ## I'm *Vishnu S*.
@@ -78,6 +78,30 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 
 ---
 
+<br/>
+
+<fieldset>
+<legend align="center">
+  <h2>🚀 Key Projects</h2>
+</legend>
+
+<ul>
+  <li>
+    <b>Replay RAG:</b> An AI-driven study session recorder that captures screen video and microphone audio in real-time, performing automated timestamp-aligned speech transcription and slide OCR text extraction[cite: 1]. It utilizes a hybrid vector search RAG pipeline and a local Ollama server to synthesize natural answers with exact timestamp citations[cite: 1].
+  </li>
+  <br/>
+  <li>
+    <b>Second Brain:</b> An AI-powered knowledge management system integrating Obsidian notes with Slack[cite: 1]. It leverages the Gemini API to process and summarize contextual information, automating note synchronization and workflow execution through GitHub Actions[cite: 1].
+  </li>
+  <br/>
+  <li>
+    <b>Art Collaboration:</b> A full-stack real-time collaborative canvas app featuring multi-user drawing via Socket.IO, room-based isolation, and JWT authentication[cite: 1]. It uses a persistent Supabase PostgreSQL backend for accounts and JSONB artwork state[cite: 1].
+  </li>
+</ul>
+
+</fieldset>
+
+
 ---
 
 ## 📬 How to Reach Me
@@ -99,3 +123,9 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 ## 🌐 Portfolio
 
 🔗 **[https://vishnu1307-cse.github.io/portfolio/](https://vishnu1307-cse.github.io/portfolio/)**
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" alt="Animated Footer" />
+</p>
