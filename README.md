@@ -34,7 +34,7 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjOWI0NjM4ZDE1YjA3MDM2YWIwYWIwZGIyYWE4YmRiZDhlZTc5YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LrmU6jXIjwziE/giphy.gif" width="600" alt="Lofi Anime Coding" style="border-radius: 10px;" />
+  <img src="./Lofi.gif" width="600" alt="Lofi Anime Coding" style="border-radius: 10px;" />
 </p>
 
 ---
