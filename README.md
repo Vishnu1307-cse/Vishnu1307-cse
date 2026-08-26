@@ -107,6 +107,14 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 
 ---
 
+# Most used Languages
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</p>
+
+---
+
 ## 📬 How to Reach Me
 
 <p align="center">
@@ -127,13 +135,7 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 
 ---
 
-# Most used Languages
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
-
----
 
 ## 🌐 Portfolio
 
