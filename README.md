@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Welcome%20to%20my%20little%20den!!&fontSize=42&fontAlignY=35&animation=twinkle&fontColor=ffffff" alt="Animated Welcome Header" />
 </p>
 
-## 👋 I'm *Vishnu S* 🎨 — a splash artist turned code wizard.
+## I'm *Vishnu S*.
 
 I'm currently a B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, and I spend most of my hours immersed in the worlds of:
 
@@ -12,7 +12,7 @@ I'm currently a B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, and I spen
 
 <p align="center">
   My tech stack?<br/>
-  💻 <b><i>MERN Stack</i></b>, <b><i>PERN</i></b>, <b><i>Laravel</i></b> and <b><i>Ruby on Rails</i></b>, with a passion for crafting <b>RESTful APIs</b> that actually behave (unlike my code at 3AM 😵‍💫).
+  💻 <b><i>MERN Stack</i></b>, <b><i>PERN</i></b>, <b><i>Laravel</i></b> and <b><i>Ruby on Rails</i></b>, with a passion for crafting <b>RESTful APIs</b> that actually behave (unlike my code at 3AM).
 </p>
 
 Feel free to peek through my repositories and call me out on any bugs — I’m always eager to learn, grow, and level up!
@@ -73,8 +73,10 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 ## 📊 Most used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
+
+---
 
 ---
 
