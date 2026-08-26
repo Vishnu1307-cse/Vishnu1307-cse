@@ -1,45 +1,32 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F3FF&center=true&vcenter=true&width=500&lines=%E2%9C%A8+Welcome+to+my+Den+%E2%9C%A8;%F0%9F%8E%A8+Splash+Artist+%E2%9E%9C+Code+Wizard%F0%9F%A984" alt="Typing Header" />
-</div>
-
 <fieldset>
 <legend align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&pause=1000&color=FF007F&center=true&vcenter=true&width=300&lines=%E2%9C%28+Vishnu+S+%E2%9C%28" alt="Vishnu S" />
+  <h2>👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓵𝓲𝓽𝓽𝓵𝓮 𝓭𝓮𝓷!!</h2>
 </legend>
 
-<p align="center">
-  <i>"𝓐𝓷𝔂 𝓯𝓸𝓸𝓵 𝓬𝓪𝓷 𝔀𝓻𝓲𝓽𝓮 𝓬𝓸𝓭𝓮 𝓽𝓱𝓪𝓽 𝓪 𝓬𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓬𝓪𝓷 𝓾𝓷𝓭𝓮𝓻𝓼𝓽𝓪𝓷𝓭. 𝓖𝓸𝓸𝓭 𝓹𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓮𝓻𝓼 𝔀𝓻𝓲𝓽𝓮 𝓬𝓸𝓭𝓮 𝓽𝓱𝓪𝓽 ```markdown
-<div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F3FF&center=true&vcenter=true&width=500&lines=%E2%9C%A8+Welcome+to+my+Den+%E2%9C%A8;%F0%9F%8E%A8+Splash+Artist+%E2%9E%9C+Code+Wizard%F0%9F%A984](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F3FF&center=true&vcenter=true&width=500&lines=%E2%9C%A8+Welcome+to+my+Den+%E2%9C%A8;%F0%9F%8E%A8+Splash+Artist+%E2%9E%9C+Code+Wizard%F0%9F%A984)" alt="Typing Header" />
-</div>
+# 𝓘'𝓶 *Readable 𝓢* 🎨 — 𝓪 𝓼𝓹𝓵𝓪𝓼𝓱 𝓪𝓻𝓽𝓲𝓼𝓽 𝓽𝓾𝓻𝓷𝓮𝓭 𝓬𝓸𝓭𝓮 𝔀𝓲𝔃𝓪𝓻𝓭.
 
-<fieldset>
-<legend align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&pause=1000&color=FF007F&center=true&vcenter=true&width=300&lines=%E2%9C%28+Vishnu+S+%E2%9C%28](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&pause=1000&color=FF007F&center=true&vcenter=true&width=300&lines=%E2%9C%28+Vishnu+S+%E2%9C%28)" alt="Vishnu S" />
-</legend>
+I'm currently a B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, and I spend most of my hours immersed in the worlds of:
+
+- 🌐 **Web Development**  
+- 🎮 **Game Development**
+
+My tech stack?  
+💻 ***MERN Stack*** , ***PERN***, ***Laravel*** and ***Ruby on Rails***, with a passion for crafting **RESTful APIs** that actually behave (unlike my code at 3AM 😵‍💫).
+
+Feel free to peek through my repositories and call me out on any bugs — I’m always eager to learn, grow, and level up!
 
 <p align="center">
-  <i>"𝓐𝓷𝔂 𝓯𝓸𝓸𝓵 𝓬𝓪𝓷 𝔀𝓻𝓲𝓽𝓮 𝓬𝓸𝓭𝓮 𝓽𝓱𝓪𝓽 𝓪 𝓬𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓬𝓪𝓷 𝓾𝓷𝓭𝓮𝓻𝓼𝓽𝓪𝓷𝓭. 𝓖𝓸𝓸𝓭 𝓹𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓮𝓻𝓼 𝔀𝓻𝓲𝓽𝓮 𝓬𝓸𝓭𝓮 𝓽𝓱𝓪𝓽 𝓱𝓾𝓶𝓪𝓷𝓼 𝓬𝓪𝓷 𝓾𝓷𝓭𝓮𝓻𝓼𝓽𝓪𝓷𝓭."</i>
+  <img src="https://komarev.com/ghpvc/?username=Vishnu1307-cse&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center">
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
   <br/>
-  — <b>Martin Fowler</b>
+  — Martin Fowler
 </p>
 
 <p align="center">
-  ⚡ <b>Building Scalable Backends</b> • 🎮 <b>Exploring Game Engines</b> • 🎨 <b>Mixing Art with Code</b>
-</p>
-
-<p align="center">
-  I'm currently a B.Tech CSE student at <b>Amrita Vishwa Vidyapeetham</b>, spending most of my hours immersed in:
-  <br/>
-  🌐 <b>Web Development</b> (MERN, PERN, Laravel, Rails) &nbsp;|&nbsp; 🎮 <b>Game Development</b>
-</p>
-
-<p align="center">
-  Crafting <b>RESTful APIs</b> that actually behave (unlike my code at 3AM 😵‍💫). Peek through my repos & call me out on bugs!
-</p>
-
-<p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=Vishnu1307-cse&label=PROFILE%20VIEWS&color=ff007f&style=for-the-badge](https://komarev.com/ghpvc/?username=Vishnu1307-cse&label=PROFILE%20VIEWS&color=ff007f&style=for-the-badge)" alt="profile views"/>
+  ⚡ Building scalable backends • 🎮 Exploring game engines • 🎨 Mixing art with code
 </p>
 
 </fieldset>
@@ -48,85 +35,75 @@
 
 <fieldset>
 <legend align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&pause=1000&color=00F3FF&center=true&vcenter=true&width=250&lines=%F0%9F%92%A1+My+Skill+Set](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&pause=1000&color=00F3FF&center=true&vcenter=true&width=250&lines=%F0%9F%92%A1+My+Skill+Set)" alt="My Skill Set" />
+  <h2>💡 𝓜𝔂 𝓢𝓴𝓲𝓵𝓵 𝓢𝓮𝓽</h2>
 </legend>
 
-<!-- ───────────── NEON TECH STACK ───────────── -->
+<!-- ───────────── TECH STACK FLEX ───────────── -->
 <p align="center">
   <!-- Languages -->
-  <img alt="Python" src="[https://img.shields.io/badge/Python-00F3FF?style=for-the-badge&logo=python&logoColor=black](https://img.shields.io/badge/Python-00F3FF?style=for-the-badge&logo=python&logoColor=black)"/>
-  <img alt="JavaScript" src="[https://img.shields.io/badge/JavaScript-FF007F?style=for-the-badge&logo=javascript&logoColor=white](https://img.shields.io/badge/JavaScript-FF007F?style=for-the-badge&logo=javascript&logoColor=white)"/>
-  <img alt="C++" src="[https://img.shields.io/badge/C%2B%2B-39FF14?style=for-the-badge&logo=c%2B%2B&logoColor=black](https://img.shields.io/badge/C%2B%2B-39FF14?style=for-the-badge&logo=c%2B%2B&logoColor=black)"/>
-  <img alt="C" src="[https://img.shields.io/badge/C-BF00FF?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-BF00FF?style=for-the-badge&logo=c&logoColor=white)"/>
-  <img alt="Java" src="[https://img.shields.io/badge/Java-00F3FF?style=for-the-badge&logo=openjdk&logoColor=black](https://img.shields.io/badge/Java-00F3FF?style=for-the-badge&logo=openjdk&logoColor=black)"/>
-  <img alt="Ruby" src="[https://img.shields.io/badge/Ruby-FF0055?style=for-the-badge&logo=ruby&logoColor=white](https://img.shields.io/badge/Ruby-FF0055?style=for-the-badge&logo=ruby&logoColor=white)"/>
-  <img alt="PHP" src="[https://img.shields.io/badge/PHP-00F3FF?style=for-the-badge&logo=php&logoColor=black](https://img.shields.io/badge/PHP-00F3FF?style=for-the-badge&logo=php&logoColor=black)"/>
-  <img alt="Node.js" src="[https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=nodedotjs&logoColor=black](https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=nodedotjs&logoColor=black)"/>
-  <img alt="Lua" src="[https://img.shields.io/badge/Lua-BF00FF?style=for-the-badge&logo=lua&logoColor=white](https://img.shields.io/badge/Lua-BF00FF?style=for-the-badge&logo=lua&logoColor=white)"/>
-  <img alt="HTML5" src="[https://img.shields.io/badge/HTML5-FF007F?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-FF007F?style=for-the-badge&logo=html5&logoColor=white)"/>
-  <img alt="CSS3" src="[https://img.shields.io/badge/CSS3-00F3FF?style=for-the-badge&logo=css3&logoColor=black](https://img.shields.io/badge/CSS3-00F3FF?style=for-the-badge&logo=css3&logoColor=black)"/>
-  <img alt="Bash" src="[https://img.shields.io/badge/Bash-39FF14?style=for-the-badge&logo=gnu-bash&logoColor=black](https://img.shields.io/badge/Bash-39FF14?style=for-the-badge&logo=gnu-bash&logoColor=black)"/>
-  <img alt="Haskell" src="[https://img.shields.io/badge/Haskell-BF00FF?style=for-the-badge&logo=haskell&logoColor=white](https://img.shields.io/badge/Haskell-BF00FF?style=for-the-badge&logo=haskell&logoColor=white)"/>
-  <img alt="MATLAB" src="[https://img.shields.io/badge/MATLAB-00F3FF?style=for-the-badge&logo=mathworks&logoColor=black](https://img.shields.io/badge/MATLAB-00F3FF?style=for-the-badge&logo=mathworks&logoColor=black)"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 <p align="center">
-  <!-- Frameworks & Ecosystem -->
-  <img alt="React" src="[https://img.shields.io/badge/React-00F3FF?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-00F3FF?style=for-the-badge&logo=react&logoColor=black)"/>
-  <img alt="Bootstrap" src="[https://img.shields.io/badge/Bootstrap-BF00FF?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Bootstrap-BF00FF?style=for-the-badge&logo=bootstrap&logoColor=white)"/>
-  <img alt="Tailwind CSS" src="[https://img.shields.io/badge/Tailwind_CSS-00F3FF?style=for-the-badge&logo=tailwind-css&logoColor=black](https://img.shields.io/badge/Tailwind_CSS-00F3FF?style=for-the-badge&logo=tailwind-css&logoColor=black)"/>
-  <img alt="Express.js" src="[https://img.shields.io/badge/Express.js-FF007F?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-FF007F?style=for-the-badge&logo=express&logoColor=white)"/>
-  <img alt="Ruby on Rails" src="[https://img.shields.io/badge/Ruby_on_Rails-FF0055?style=for-the-badge&logo=ruby-on-rails&logoColor=white](https://img.shields.io/badge/Ruby_on_Rails-FF0055?style=for-the-badge&logo=ruby-on-rails&logoColor=white)"/>
-  <img alt="Laravel" src="[https://img.shields.io/badge/Laravel-FF007F?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Laravel-FF007F?style=for-the-badge&logo=laravel&logoColor=white)"/>
-  <img alt="Blade" src="[https://img.shields.io/badge/Blade-FF007F?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Blade-FF007F?style=for-the-badge&logo=laravel&logoColor=white)"/>
-  <img alt="MERN" src="[https://img.shields.io/badge/MERN-39FF14?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/MERN-39FF14?style=for-the-badge&logo=react&logoColor=black)"/>
-  <img alt="RBAC" src="[https://img.shields.io/badge/RBAC-39FF14?style=for-the-badge&logo=security&logoColor=black](https://img.shields.io/badge/RBAC-39FF14?style=for-the-badge&logo=security&logoColor=black)"/>
-  <img alt="Docker" src="[https://img.shields.io/badge/Docker-BF00FF?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-BF00FF?style=for-the-badge&logo=docker&logoColor=white)"/>
-  <img alt="Nginx" src="[https://img.shields.io/badge/Nginx-39FF14?style=for-the-badge&logo=nginx&logoColor=black](https://img.shields.io/badge/Nginx-39FF14?style=for-the-badge&logo=nginx&logoColor=black)"/>
-  <img alt="Render" src="[https://img.shields.io/badge/Render-00F3FF?style=for-the-badge&logo=render&logoColor=black](https://img.shields.io/badge/Render-00F3FF?style=for-the-badge&logo=render&logoColor=black)"/>
-  <img alt="Vercel" src="[https://img.shields.io/badge/Vercel-FF007F?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Vercel-FF007F?style=for-the-badge&logo=vercel&logoColor=white)"/>
-  <img alt="PyTorch" src="[https://img.shields.io/badge/PyTorch-FF0055?style=for-the-badge&logo=pytorch&logoColor=white](https://img.shields.io/badge/PyTorch-FF0055?style=for-the-badge&logo=pytorch&logoColor=white)"/>
-  <img alt="OpenCV" src="[https://img.shields.io/badge/OpenCV-BF00FF?style=for-the-badge&logo=opencv&logoColor=white](https://img.shields.io/badge/OpenCV-BF00FF?style=for-the-badge&logo=opencv&logoColor=white)"/>
-  <img alt="MediaPipe" src="[https://img.shields.io/badge/MediaPipe-00F3FF?style=for-the-badge&logoColor=black](https://img.shields.io/badge/MediaPipe-00F3FF?style=for-the-badge&logoColor=black)"/>
+  <!-- Frontend / Frameworks -->
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="Blade" src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="MERN" src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="RBAC" src="https://img.shields.io/badge/RBAC-006400?style=for-the-badge&logo=security&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
   <!-- Databases -->
-  <img alt="MongoDB" src="[https://img.shields.io/badge/MongoDB-39FF14?style=for-the-badge&logo=mongodb&logoColor=black](https://img.shields.io/badge/MongoDB-39FF14?style=for-the-badge&logo=mongodb&logoColor=black)"/>
-  <img alt="MySQL" src="[https://img.shields.io/badge/MySQL-00F3FF?style=for-the-badge&logo=mysql&logoColor=black](https://img.shields.io/badge/MySQL-00F3FF?style=for-the-badge&logo=mysql&logoColor=black)"/>
-  <img alt="SQLite" src="[https://img.shields.io/badge/SQLite-00F3FF?style=for-the-badge&logo=sqlite&logoColor=black](https://img.shields.io/badge/SQLite-00F3FF?style=for-the-badge&logo=sqlite&logoColor=black)"/>
-  <img alt="ClickHouse" src="[https://img.shields.io/badge/ClickHouse-FF007F?style=for-the-badge&logo=clickhouse&logoColor=white](https://img.shields.io/badge/ClickHouse-FF007F?style=for-the-badge&logo=clickhouse&logoColor=white)"/>
-  <img alt="ChromaDB" src="[https://img.shields.io/badge/ChromaDB-BF00FF?style=for-the-badge&logoColor=white](https://img.shields.io/badge/ChromaDB-BF00FF?style=for-the-badge&logoColor=white)"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="SQLite3" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
-  <!-- Tools & Game Dev -->
-  <img alt="Git" src="[https://img.shields.io/badge/Git-FF007F?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-FF007F?style=for-the-badge&logo=git&logoColor=white)"/>
-  <img alt="GitHub" src="[https://img.shields.io/badge/GitHub-BF00FF?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-BF00FF?style=for-the-badge&logo=github&logoColor=white)"/>
-  <img alt="GitLab" src="[https://img.shields.io/badge/GitLab-FF0055?style=for-the-badge&logo=gitlab&logoColor=white](https://img.shields.io/badge/GitLab-FF0055?style=for-the-badge&logo=gitlab&logoColor=white)"/>
-  <img alt="PuTTY" src="[https://img.shields.io/badge/PuTTY-00F3FF?style=for-the-badge&logo=putty&logoColor=black](https://img.shields.io/badge/PuTTY-00F3FF?style=for-the-badge&logo=putty&logoColor=black)"/>
-  <img alt="NumPy" src="[https://img.shields.io/badge/NumPy-00F3FF?style=for-the-badge&logo=numpy&logoColor=black](https://img.shields.io/badge/NumPy-00F3FF?style=for-the-badge&logo=numpy&logoColor=black)"/>
-  <img alt="Pandas" src="[https://img.shields.io/badge/Pandas-BF00FF?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-BF00FF?style=for-the-badge&logo=pandas&logoColor=white)"/>
-  <img alt="Photoshop" src="[https://img.shields.io/badge/Photoshop-00F3FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black](https://img.shields.io/badge/Photoshop-00F3FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)"/>
-  <img alt="Filmora" src="[https://img.shields.io/badge/Filmora-00F3FF?style=for-the-badge&logo=filmora&logoColor=black](https://img.shields.io/badge/Filmora-00F3FF?style=for-the-badge&logo=filmora&logoColor=black)"/>
-  <img alt="DSA" src="[https://img.shields.io/badge/Data_Structures_%26_Algos-39FF14?style=for-the-badge&logo=codewars&logoColor=black](https://img.shields.io/badge/Data_Structures_%26_Algos-39FF14?style=for-the-badge&logo=codewars&logoColor=black)"/>
-  <img alt="Unreal Engine" src="[https://img.shields.io/badge/Unreal_Engine-39FF14?style=for-the-badge&logo=unrealengine&logoColor=black](https://img.shields.io/badge/Unreal_Engine-39FF14?style=for-the-badge&logo=unrealengine&logoColor=black)"/>
-  <img alt="Blender" src="[https://img.shields.io/badge/Blender-BF00FF?style=for-the-badge&logo=blender&logoColor=white](https://img.shields.io/badge/Blender-BF00FF?style=for-the-badge&logo=blender&logoColor=white)"/>
-  <img alt="Godot" src="[https://img.shields.io/badge/Godot-00F3FF?style=for-the-badge&logo=godotengine&logoColor=black](https://img.shields.io/badge/Godot-00F3FF?style=for-the-badge&logo=godotengine&logoColor=black)"/>
-  <img alt="Quixel Bridge" src="[https://img.shields.io/badge/Quixel_Bridge-FF007F?style=for-the-badge&logoColor=white](https://img.shields.io/badge/Quixel_Bridge-FF007F?style=for-the-badge&logoColor=white)"/>
+  <!-- Tools / Libraries -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img alt="PuTTY" src="https://img.shields.io/badge/PuTTY-00599C?style=for-the-badge&logo=putty&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img alt="Filmora" src="https://img.shields.io/badge/Filmora-0A8FEC?style=for-the-badge&logo=filmora&logoColor=white"/>
+  <img alt="DSA" src="https://img.shields.io/badge/Data_Structures_%26_Algos-323330?style=for-the-badge&logo=codewars&logoColor=red"/>
 </p>
 
-</fieldset>
-
-<br/>
-
-<fieldset>
-<legend align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&pause=1000&color=39FF14&center=true&vcenter=true&width=320&lines=%F0%9F%93%8A+Most+Used+Languages](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&pause=1000&color=39FF14&center=true&vcenter=true&width=320&lines=%F0%9F%93%8A+Most+Used+Languages)" alt="Most Used Languages" />
-</legend>
-
 <p align="center">
-  <img src="[https://github-stats-extended.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut&theme=synthwave&hide_border=true&langs_count=8](https://github-stats-extended.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut&theme=synthwave&hide_border=true&langs_count=8)" alt="Most Used Languages" />
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+  <img alt="Quixel Bridge" src="https://img.shields.io/badge/Quixel_Bridge-2C2C2C?style=for-the-badge&logoColor=white"/>
 </p>
 
 </fieldset>
@@ -135,23 +112,47 @@
 
 <fieldset>
 <legend align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&pause=1000&color=BF00FF&center=true&vcenter=true&width=250&lines=%F0%9F%93%AC+How+to+Reach+Me](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&pause=1000&color=BF00FF&center=true&vcenter=true&width=250&lines=%F0%9F%93%AC+How+to+Reach+Me)" alt="Reach Me" />
+  <h2>📊 𝓜𝓸𝓼𝓽 𝓾𝓼𝓮𝓭 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼</h2>
 </legend>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/vishnu-s-55887b295/](https://www.linkedin.com/in/vishnu-s-55887b295/)" target="_blank">
-    <img alt="LinkedIn" src="[https://img.shields.io/badge/LinkedIn-00F3FF?style=for-the-badge&logo=linkedin&logoColor=black](https://img.shields.io/badge/LinkedIn-00F3FF?style=for-the-badge&logo=linkedin&logoColor=black)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</p>
+
+</fieldset>
+
+<br/>
+
+<fieldset>
+<legend align="center">
+  <h2>📬 𝓗𝓸𝔀 𝓽𝓸 𝓦𝓮𝓪𝓬𝓱 𝓜𝓮</h2>
+</legend>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vishnu-s-55887b295/" target="_blank">
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <!-- Email -->
   <a href="mailto:svvishnu33@gmail.com">
-    <img alt="Email" src="[https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white)"/>
+    <img alt="Email Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://vishnu1307-cse.github.io/portfolio/](https://vishnu1307-cse.github.io/portfolio/)" target="_blank">
-    <img alt="Portfolio" src="[https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=firefox&logoColor=black](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=firefox&logoColor=black)"/>
-  </a>
+  <br/><br/>
+  <b>svvishnu33@gmail.com</b>
 </p>
 
+</fieldset>
+
+<br/>
+
+<fieldset>
+<legend align="center">
+  <h2>🌐 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸</h2>
+</legend>
+
 <p align="center">
-  📧 <b>svvishnu33@gmail.com</b>
+  🔗 <b><a href="https://vishnu1307-cse.github.io/portfolio/">https://vishnu1307-cse.github.io/portfolio/</a></b>
 </p>
 
 </fieldset>
