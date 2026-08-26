@@ -4,7 +4,7 @@
 
 <fieldset>
 <legend align="center">
-  <h2>👋 𝓘'𝓶 𝓥𝓲𝓼𝓱𝓷𝓾 𝓢 🎨 — 𝓪 𝓼𝓹𝓵𝓪𝓼𝓱 𝓪𝓻𝓽𝓲𝓼𝓽 𝓽𝓾𝓻𝓷𝓮𝓭 𝓬𝓸𝓭𝓮 𝔀𝓲𝔃𝓪𝓻𝓭.</h2>
+  <h2>👋 I'm Vishnu S 🎨 — a splash artist turned code wizard.</h2>
 </legend>
 
 <p align="center">
@@ -23,7 +23,6 @@
 </p>
 
 <p align="center">
-  <!-- Fixed Profile Views -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishnu1307-cse.Vishnu1307-cse&title=Profile%20Views&title_color=000000&title_bg=0e75b6&text_color=ffffff" alt="profile views"/>
 </p>
 
@@ -43,40 +42,32 @@
 
 <fieldset>
 <legend align="center">
-  <h2>💡 𝓜𝔂 𝓢𝓴𝓲𝓵𝓵 𝓢𝓮𝓽</h2>
+  <h2>💡 My Skill Set</h2>
 </legend>
 
-<!-- ───────────── STYLIZED SKILL ICONS ───────────── -->
-<p align="center">
-  <!-- Core Languages -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ruby,java,cpp,c,php,js,nodejs,lua,html,css,bash,haskell,matlab&theme=dark" alt="Language Icons" />
-  </a>
-</p>
+<!-- Side-by-Side Layout: Skills on Left, GIF on Right -->
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
+      <a href="https://skillicons.dev">
+        <!-- perline=5 forces a nice compact grid -->
+        <img src="https://skillicons.dev/icons?i=py,ruby,java,cpp,c,php,js,nodejs,html,css,bash,matlab,react,tailwind,express,rails,laravel,docker,nginx,vercel,mongodb,mysql,sqlite,git,github,ps,blender,godot&perline=6&theme=dark" alt="Skill Icons" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <!-- You can swap this URL with any aesthetic GIF you prefer -->
+      <img src="https://media1.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="400" alt="Pixel Art Coding" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <!-- Frameworks & Ecosystems -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,express,rails,laravel,docker,nginx,vercel,pytorch,opencv&theme=dark" alt="Framework Icons" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Databases & Tools -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,gitlab,ps,blender,godot&theme=dark" alt="Tool Icons" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Specific Custom Tech (Styled to blend with dark mode) -->
+  <!-- Extra customized badges -->
   <img alt="RBAC" src="https://img.shields.io/badge/RBAC-1E1E1E?style=for-the-badge&logo=security&logoColor=39FF14"/>
   <img alt="Render" src="https://img.shields.io/badge/Render-1E1E1E?style=for-the-badge&logo=render&logoColor=00F3FF"/>
   <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-1E1E1E?style=for-the-badge&logoColor=4285F4"/>
-  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-1E1E1E?style=for-the-badge&logo=clickhouse&logoColor=FFCC01"/>
-  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-1E1E1E?style=for-the-badge&logoColor=7B61FF"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-1E1E1E?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-1E1E1E?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img alt="Quixel Bridge" src="https://img.shields.io/badge/Quixel_Bridge-1E1E1E?style=for-the-badge&logoColor=white"/>
 </p>
 
 </fieldset>
@@ -85,11 +76,11 @@
 
 <fieldset>
 <legend align="center">
-  <h2>📊 𝓜𝓸𝓼𝓽 𝓤𝓼𝓮𝓭 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼</h2>
+  <h2>📊 Most Used Languages</h2>
 </legend>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut&theme=react&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 </fieldset>
@@ -98,7 +89,7 @@
 
 <fieldset>
 <legend align="center">
-  <h2>📬 𝓗𝓸𝔀 𝓽𝓸 𝓡𝓮𝓪𝓬𝓱 𝓜𝓮</h2>
+  <h2>📬 How to Reach Me</h2>
 </legend>
 
 <p align="center">
@@ -119,7 +110,7 @@
 
 <fieldset>
 <legend align="center">
-  <h2>🌐 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸</h2>
+  <h2>🌐 Portfolio</h2>
 </legend>
 
 <p align="center">
