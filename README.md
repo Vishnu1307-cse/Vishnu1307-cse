@@ -87,15 +87,15 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 
 <ul>
   <li>
-    <b>Replay RAG:</b> An AI-driven study session recorder that captures screen video and microphone audio in real-time, performing automated timestamp-aligned speech transcription and slide OCR text extraction[cite: 1]. It utilizes a hybrid vector search RAG pipeline and a local Ollama server to synthesize natural answers with exact timestamp citations[cite: 1].
+    <b>Replay RAG:</b> An AI-driven study session recorder that captures screen video and microphone audio in real-time, performing automated timestamp-aligned speech transcription and slide OCR text extraction. It utilizes a hybrid vector search RAG pipeline and a local Ollama server to synthesize natural answers with exact timestamp citations.
   </li>
   <br/>
   <li>
-    <b>Second Brain:</b> An AI-powered knowledge management system integrating Obsidian notes with Slack[cite: 1]. It leverages the Gemini API to process and summarize contextual information, automating note synchronization and workflow execution through GitHub Actions[cite: 1].
+    <b>Second Brain:</b> An AI-powered knowledge management system integrating Obsidian notes with Slack. It leverages the Gemini API to process and summarize contextual information, automating note synchronization and workflow execution through GitHub Actions.
   </li>
   <br/>
   <li>
-    <b>Art Collaboration:</b> A full-stack real-time collaborative canvas app featuring multi-user drawing via Socket.IO, room-based isolation, and JWT authentication[cite: 1]. It uses a persistent Supabase PostgreSQL backend for accounts and JSONB artwork state[cite: 1].
+    <b>Art Collaboration:</b> A full-stack real-time collaborative canvas app featuring multi-user drawing via Socket.IO, room-based isolation, and JWT authentication. It uses a persistent Supabase PostgreSQL backend for accounts and JSONB artwork state.
   </li>
 </ul>
 
