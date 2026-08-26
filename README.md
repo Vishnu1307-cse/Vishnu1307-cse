@@ -89,8 +89,7 @@
 </legend>
 
 <p align="center">
-  <!-- Fixed GitHub Language Stats API -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut&theme=react&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 </fieldset>
