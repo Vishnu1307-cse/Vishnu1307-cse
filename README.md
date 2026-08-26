@@ -1,22 +1,30 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Welcome%20to%20my%20little%20den!!&fontSize=42&fontAlignY=35&animation=twinkle&fontColor=ffffff" alt="Animated Welcome Header" />
+</p>
+
 <fieldset>
 <legend align="center">
-  <h2>👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓵𝓲𝓽𝓽𝓵𝓮 𝓭𝓮𝓷!!</h2>
+  <h2>👋 𝓘'𝓶 𝓥𝓲𝓼𝓱𝓷𝓾 𝓢 🎨 — 𝓪 𝓼𝓹𝓵𝓪𝓼𝓱 𝓪𝓻𝓽𝓲𝓼𝓽 𝓽𝓾𝓻𝓷𝓮𝓭 𝓬𝓸𝓭𝓮 𝔀𝓲𝔃𝓪𝓻𝓭.</h2>
 </legend>
 
-# 𝓘'𝓶 *Readable 𝓢* 🎨 — 𝓪 𝓼𝓹𝓵𝓪𝓼𝓱 𝓪𝓻𝓽𝓲𝓼𝓽 𝓽𝓾𝓻𝓷𝓮𝓭 𝓬𝓸𝓭𝓮 𝔀𝓲𝔃𝓪𝓻𝓭.
-
-I'm currently a B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, and I spend most of my hours immersed in the worlds of:
-
-- 🌐 **Web Development**  
-- 🎮 **Game Development**
-
-My tech stack?  
-💻 ***MERN Stack*** , ***PERN***, ***Laravel*** and ***Ruby on Rails***, with a passion for crafting **RESTful APIs** that actually behave (unlike my code at 3AM 😵‍💫).
-
-Feel free to peek through my repositories and call me out on any bugs — I’m always eager to learn, grow, and level up!
+<p align="center">
+  I'm currently a B.Tech CSE student at <b>Amrita Vishwa Vidyapeetham</b>, and I spend most of my hours immersed in the worlds of:
+  <br/><br/>
+  🌐 <b>Web Development</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🎮 <b>Game Development</b>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishnu1307-cse&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  My tech stack? <br/>
+  💻 <b><i>MERN Stack</i></b>, <b><i>PERN</i></b>, <b><i>Laravel</i></b> and <b><i>Ruby on Rails</i></b>, with a passion for crafting <b>RESTful APIs</b> that actually behave (unlike my code at 3AM 😵‍💫).
+</p>
+
+<p align="center">
+  Feel free to peek through my repositories and call me out on any bugs — I’m always eager to learn, grow, and level up!
+</p>
+
+<p align="center">
+  <!-- Fixed Profile Views -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishnu1307-cse.Vishnu1307-cse&title=Profile%20Views&title_color=000000&title_bg=0e75b6&text_color=ffffff" alt="profile views"/>
 </p>
 
 <p align="center">
@@ -38,105 +46,69 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
   <h2>💡 𝓜𝔂 𝓢𝓴𝓲𝓵𝓵 𝓢𝓮𝓽</h2>
 </legend>
 
-<!-- ───────────── TECH STACK FLEX ───────────── -->
+<!-- ───────────── STYLIZED SKILL ICONS ───────────── -->
 <p align="center">
-  <!-- Languages -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
-  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Frontend / Frameworks -->
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="Blade" src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="MERN" src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=react&logoColor=white"/>
-  <img alt="RBAC" src="https://img.shields.io/badge/RBAC-006400?style=for-the-badge&logo=security&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Databases -->
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite3" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
-  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Tools / Libraries -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img alt="PuTTY" src="https://img.shields.io/badge/PuTTY-00599C?style=for-the-badge&logo=putty&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img alt="Filmora" src="https://img.shields.io/badge/Filmora-0A8FEC?style=for-the-badge&logo=filmora&logoColor=white"/>
-  <img alt="DSA" src="https://img.shields.io/badge/Data_Structures_%26_Algos-323330?style=for-the-badge&logo=codewars&logoColor=red"/>
-</p>
-
-<p align="center">
-  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
-  <img alt="Quixel Bridge" src="https://img.shields.io/badge/Quixel_Bridge-2C2C2C?style=for-the-badge&logoColor=white"/>
-</p>
-
-</fieldset>
-
-<br/>
-
-<fieldset>
-<legend align="center">
-  <h2>📊 𝓜𝓸𝓼𝓽 𝓾𝓼𝓮𝓭 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼</h2>
-</legend>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
-
-</fieldset>
-
-<br/>
-
-<fieldset>
-<legend align="center">
-  <h2>📬 𝓗𝓸𝔀 𝓽𝓸 𝓦𝓮𝓪𝓬𝓱 𝓜𝓮</h2>
-</legend>
-
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/vishnu-s-55887b295/" target="_blank">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <!-- Core Languages -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ruby,java,cpp,c,php,js,nodejs,lua,html,css,bash,haskell,matlab&theme=dark" alt="Language Icons" />
   </a>
+</p>
 
-  <!-- Email -->
+<p align="center">
+  <!-- Frameworks & Ecosystems -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,express,rails,laravel,docker,nginx,vercel,pytorch,opencv&theme=dark" alt="Framework Icons" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Databases & Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,gitlab,ps,blender,godot&theme=dark" alt="Tool Icons" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Specific Custom Tech (Styled to blend with dark mode) -->
+  <img alt="RBAC" src="https://img.shields.io/badge/RBAC-1E1E1E?style=for-the-badge&logo=security&logoColor=39FF14"/>
+  <img alt="Render" src="https://img.shields.io/badge/Render-1E1E1E?style=for-the-badge&logo=render&logoColor=00F3FF"/>
+  <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-1E1E1E?style=for-the-badge&logoColor=4285F4"/>
+  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-1E1E1E?style=for-the-badge&logo=clickhouse&logoColor=FFCC01"/>
+  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-1E1E1E?style=for-the-badge&logoColor=7B61FF"/>
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-1E1E1E?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img alt="Quixel Bridge" src="https://img.shields.io/badge/Quixel_Bridge-1E1E1E?style=for-the-badge&logoColor=white"/>
+</p>
+
+</fieldset>
+
+<br/>
+
+<fieldset>
+<legend align="center">
+  <h2>📊 𝓜𝓸𝓼𝓽 𝓤𝓼𝓮𝓭 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼</h2>
+</legend>
+
+<p align="center">
+  <!-- Fixed GitHub Language Stats API -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1307-cse&layout=donut&theme=react&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</p>
+
+</fieldset>
+
+<br/>
+
+<fieldset>
+<legend align="center">
+  <h2>📬 𝓗𝓸𝔀 𝓽𝓸 𝓡𝓮𝓪𝓬𝓱 𝓜𝓮</h2>
+</legend>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishnu-s-55887b295/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:svvishnu33@gmail.com">
-    <img alt="Email Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br/><br/>
   <b>svvishnu33@gmail.com</b>
