@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=39FF14&center=true&vcenter=true&width=600&height=100&lines=%3E_+Welcome+to+my+little+den!!;%3E_+Initializing+workspace...;%3E_+System+ready." alt="Animated Typing Header" />
 </p>
 
-## I'm *Vishnu S*.
+<h1 align="center">## I'm *Vishnu S*</h1>
 
 I'm currently a B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, and I spend most of my hours immersed in the worlds of:
 
