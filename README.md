@@ -34,7 +34,7 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
 ---
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/qgQUggCGvnPZG/giphy.gif](https://images.steamusercontent.com/ugc/1773832585217802775/3C48C1DC0DB8A274104DBCAB80B487063A844AA4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="600" alt="Pixel Art Coding" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjOWI0NjM4ZDE1YjA3MDM2YWIwYWIwZGIyYWE4YmRiZDhlZTc5YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LrmU6jXIjwziE/giphy.gif" width="600" alt="Lofi Anime Coding" style="border-radius: 10px;" />
 </p>
 
 ---
