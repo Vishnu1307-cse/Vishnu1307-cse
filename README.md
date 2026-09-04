@@ -7,7 +7,7 @@
 I'm currently a B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, and I spend most of my hours immersed in the worlds of:
 
 <p align="center">
-  🌐 <b>Web Development</b> &nbsp;|&nbsp; 🎮 <b>Game Development</b>
+  🌐 <b>Web Development</b> &nbsp;|&nbsp; 🎮 <b>Game Development</b> &nbsp;|&nbsp; 📡 <b>IoT & Edge AI</b>
 </p>
 
 <p align="center">
@@ -56,6 +56,13 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
   <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
   <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logoColor=white"/>
   <br/>
+  <!-- IoT & Edge AI Additions -->
+  <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img alt="TensorFlow Lite" src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <br/>
   <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
   <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge&logoColor=white"/>
   <img alt="PuTTY" src="https://img.shields.io/badge/PuTTY-00599C?style=for-the-badge&logo=putty&logoColor=white"/>
@@ -67,7 +74,6 @@ Feel free to peek through my repositories and call me out on any bugs — I’m 
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img alt="Quixel Bridge" src="https://img.shields.io/badge/Quixel_Bridge-2C2C2C?style=for-the-badge&logoColor=white"/>
 </p>
-
 ---
 
 ## 📊 Most used Languages
